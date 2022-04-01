@@ -52,4 +52,8 @@ public class ManageDemand {
         return quantities * taxes;
     }
 
+
+
+    
+
 }
